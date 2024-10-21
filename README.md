@@ -65,6 +65,7 @@ Refer to the *MultiSubppModel* used in `BERTMtiSppModel.py` and `dEFENDMtiSppMod
   title={{Let Silence Speak: Enhancing Fake News Detection with Generated Comments from Large Language Models}},
   author={Nan, Qiong and Sheng, Qiang and Cao, Juan and Hu, Beizhe and Wang, Danding and Li, Jintao},
   booktitle={Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+  pages = {1732–1742},
   doi={10.1145/3627673.3679519},
   year={2024}
 }
