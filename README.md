@@ -16,7 +16,9 @@ The folder `/data/LLM-mis/` contains the LLM-mis data with generated comments, a
 The folder `/data/GossipCop/` contains the GossipCop data with real comments, the folder `data/GossipCop/bge-large-en-v1.5/` contains the extracted feature of real comments, and the folder `/data/role_virtual_comments/` contains the GossipCop data with generated comments and the corresponding extracted comment feature.
 
 <font color = 'red'>**Note**</font> that we only list some example instances in `train.json`, `val.json`, and `test.json`.
-You should prepare the whole dataset in the same format as example instances, and follow **STEP I** in the **How To Run** section to generate the complete dataset.
+You should prepare the whole dataset in the same format as example instances, and follow **STEP I** in the **How To Run** section to generate the complete dataset. 
+
+**We could not provide the original dataset that we used because they were not collected by us and we were not authorized to dispatch them. Only the generated comments originated from us. Please visit the links provided above to obtain the original datasets.**
 
 # Sentence Encoder Preparation
 Download model files from [Dmeta-embedding](https://huggingface.co/DMetaSoul/Dmeta-embedding-zh/tree/main) and put them in the folder `GenFEND_release_ch/pretrained_model/Dmeta-embedding/`.
